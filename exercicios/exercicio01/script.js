@@ -8,9 +8,3 @@ function criarParagrafo(){
 const buttons = document.querySelectorAll('button')
 
 
-for (let i = 0  < buttons.length; i++ ){
-    buttons[i].addEventLis
-
-
-
-}
